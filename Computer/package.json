@@ -1,0 +1,17 @@
+{
+  "name": "computer",
+  "description": "Library for composing asynchronous and event-based operations in JavaScript",
+  "repository": {
+    "type": "git",
+    "url": "https://git.coding.net/konghao/fortest.git"
+  },
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-htmlmin": "latest",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
